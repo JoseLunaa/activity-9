@@ -23,6 +23,6 @@ Dependiendo de si el usuario tiene cuenta o no, se muestra una vista diferente.
 6. Correr php artisan serve
 
 ## Autor
-Jose Guadalupe Luna Luna
-Carlos Alberto Perez Burelo
-Hector Ariel Lopez Ramos
+- Jose Guadalupe Luna Luna
+- Carlos Alberto Perez Burelo
+- Hector Ariel Lopez Ramos
