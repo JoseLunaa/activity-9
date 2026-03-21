@@ -13,7 +13,6 @@ Dependiendo de si el usuario tiene cuenta o no, se muestra una vista diferente.
 - Laravel 7
 - PHP
 - MySQL
-- Bootstrap 4
 
 ## Como instalar
 1. Clonar el repositorio
@@ -24,4 +23,6 @@ Dependiendo de si el usuario tiene cuenta o no, se muestra una vista diferente.
 6. Correr php artisan serve
 
 ## Autor
-Nombre del alumno
+Jose Guadalupe Luna Luna
+Carlos Alberto Perez Burelo
+Hector Ariel Lopez Ramos
